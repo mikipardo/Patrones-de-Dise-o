@@ -1,0 +1,16 @@
+Descargar remoto y guardar
+
+
+-git clone url
+-git init
+-git add .
+-git commit -m "string"
+-git push
+
+$ git push -f origin main
+
+
+clonar una rama
+
+
+git clone -b <NOMBRE_BRANCH> --single-branch <URL_REPO>
